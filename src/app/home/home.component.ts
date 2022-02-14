@@ -9,7 +9,7 @@ export class HomeComponent implements OnInit {
     constructor(private modalService: ModalService) { }
 
     ngOnInit() {
-        this.bodyText = 'This text can be updated in modal 1';
+        this.bodyText = 'Custom Model Content Area';
     }
 
     openModal(id: string) {

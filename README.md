@@ -1,5 +1,16 @@
-# angular-10-custom-modal
+##Assessment
+=============================
 
-Angular 10 - Custom Modal Example
 
-Tutorial and demo available at https://jasonwatmore.com/post/2020/09/24/angular-10-custom-modal-window-dialog-box
+## Quick start
+
+- Install all dependencies
+npm install
+```
+
+- Run the application
+ng serve
+```
+-task 1 is in app.component.ts file please console expected output will be in console.
+-Model creation task is in home and _modal folder.
+-

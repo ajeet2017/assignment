@@ -7,7 +7,6 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home';
-import { TestPageComponent } from './test-page';
 
 @NgModule({
     imports: [
@@ -19,7 +18,7 @@ import { TestPageComponent } from './test-page';
     declarations: [
         AppComponent,
         HomeComponent,
-        TestPageComponent
+        
     ],
     bootstrap: [AppComponent]
 })
